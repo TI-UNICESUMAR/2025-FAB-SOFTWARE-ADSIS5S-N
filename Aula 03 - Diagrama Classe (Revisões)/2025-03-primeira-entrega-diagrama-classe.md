@@ -1,10 +1,10 @@
-Revisão do Diagrama de Classe
+# Revisão do Diagrama de Classe
 
 Entregar no Forms abaixo um descritivo sobre a Regra de Negócio/Fluxo de uso do sistema.
 
 [Forms-Diagrama Classe](https://forms.gle/768CtWAnytDtw9DY8)
 
-Exemplos de Descritivo:
+## Exemplos de Descritivo:
 
 Exemplo 01:
 ```
