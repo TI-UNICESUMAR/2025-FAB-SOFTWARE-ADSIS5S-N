@@ -4,6 +4,10 @@ Essa apresentação é com relação a matéria Fábrica de Software. Comporá a
 # Links:
 [Link Preenchimento de Grupos](https://forms.gle/SwY3yzP4tTqJEJcz8)
 
+[Link Não Conformidades](https://forms.gle/uaGv8CY5w5VkkWHa8)
+
+Preencher com Responsabilidade.
+
 ## Resumo da Primeira Entrega
 
 - Data Apresentação: 07-08/Maio.
