@@ -2,6 +2,8 @@
 Essa apresentação é com relação a matéria Fábrica de Software. Comporá a nota da apresentação da Escola de TI, porém majoritariamente será para avaliação da matéria em questão.
 
 # Links:
+[Link de Entrega](https://forms.gle/FXaMreyBuUhkeiiAA)
+
 [Link Preenchimento de Grupos](https://forms.gle/SwY3yzP4tTqJEJcz8)
 
 [Link Não Conformidades](https://forms.gle/uaGv8CY5w5VkkWHa8)
