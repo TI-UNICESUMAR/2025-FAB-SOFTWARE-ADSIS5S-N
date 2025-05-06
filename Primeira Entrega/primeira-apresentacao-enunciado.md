@@ -12,7 +12,7 @@ Preencher com Responsabilidade.
 
 ## Resumo da Primeira Entrega
 
-- Data Apresentação: 07-08/Maio.
+- Data Apresentação: 06-07/Maio.
 - Data Entrega Forms: 05-09/Maio.
 
 A apresentação será em um Auditório, que ainda será informado a vocês. 
