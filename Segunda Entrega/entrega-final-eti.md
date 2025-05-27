@@ -14,20 +14,28 @@
 ### Tempo de Apresentação por Grupo
 Cada grupo terá um tempo determinado para apresentar seu projeto. O tempo exato será informado previamente, mas recomenda-se que a apresentação seja objetiva, focada nos critérios avaliativos, com espaço reservado para perguntas ao final.
 
-### Ordem de Apresentação (ainda não definida - sorteio)
+### Ordem de Apresentação
 
-1. HelpPsico  
-2. Kalledra  
-3. DataClick  
-4. Dou um Help!  
-5. TixUp  
-6. Nossa Feirinha  
-7. Tico Company  
-8. UnoDevs  
-9. DenebCorp  
-10. RM System  
-11. Noctus  
-12. uSafe
+01. Nosso Tech
+02. 
+03. Kalledra
+04. 
+05. HelpPsico
+06. 
+07. Dou um Help!
+08. 
+09. DataClick
+10. 
+11. TixUp
+
+(Ainda não sorteados)
+
+Tico Company  
+UnoDevs  
+DenebCorp  
+RM System  
+Noctus  
+uSafe
 
 ---
 
