@@ -11,8 +11,12 @@
 
 ## Definições para Apresentação
 
-### Tempo de Apresentação por Grupo
-Cada grupo terá um tempo determinado para apresentar seu projeto. O tempo exato será informado previamente, mas recomenda-se que a apresentação seja objetiva, focada nos critérios avaliativos, com espaço reservado para perguntas ao final.
+### Tempo de Apresentação por Grupo - 20min/Grupo
+
+- 15min -> Apresentação
+-  5min -> Dúvidas e Questionamentos
+
+Cada grupo terá o tempo determinado para apresentar seu projeto, recomenda-se que a apresentação seja objetiva, focada nos critérios avaliativos, com espaço reservado para perguntas ao final.
 
 ### Ordem de Apresentação
 
