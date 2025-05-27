@@ -27,6 +27,7 @@ Cada grupo terá um tempo determinado para apresentar seu projeto. O tempo exato
 09. DataClick
 10. 
 11. TixUp
+12. 
 
 (Ainda não sorteados)
 
