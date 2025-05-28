@@ -21,26 +21,17 @@ Cada grupo terá o tempo determinado para apresentar seu projeto, recomenda-se q
 ### Ordem de Apresentação
 
 01. Nosso Tech
-02. 
+02. DenebCorp
 03. Kalledra
-04. 
+04. Noctus
 05. HelpPsico
-06. 
+06. uSafe
 07. Dou um Help!
-08. 
+08. UnoDevs
 09. DataClick
-10. 
+10. RM System
 11. TixUp
-12. 
-
-(Ainda não sorteados)
-
-Tico Company  
-UnoDevs  
-DenebCorp  
-RM System  
-Noctus  
-uSafe
+12. Tico Company
 
 ---
 
