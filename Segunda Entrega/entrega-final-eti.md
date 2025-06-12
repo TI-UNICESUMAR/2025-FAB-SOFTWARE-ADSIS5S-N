@@ -6,6 +6,7 @@
 - **Horário:** A partir das 19h  
 - **Local:** Auditório Joaquim Lauer (Bloco 6)  
 - **Curso:** Análise e Desenvolvimento de Sistemas – 5º Semestre (Turmas A e B)
+- **Entrega:** [Link de Entrega do Documento atualizado](https://forms.gle/wApprwrRKoi1CEST8)
 
 ---
 
